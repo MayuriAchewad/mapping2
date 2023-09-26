@@ -3,7 +3,7 @@ import './App.css';
 import { Card, CardContent } from '@mui/material';
 import { Colors } from './components/Colors';
 import { Form } from './components/Form';
-import { Landing } from './components/Landing';
+import { Landing } from './Nav/Landing';
 
 function App() {
   return (
