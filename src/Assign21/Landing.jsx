@@ -17,9 +17,9 @@ export const Landing=()=>{
      <br />
       <Routes>
 
-        <Route path='/'element={<India/>}/>
-        <Route path='/Russia'element={<Russia/>}/>
-        <Route path='/America'element={<America/>}/>
+        <Route path='/' element={<India/>}/>
+        <Route path='/Russia' element={<Russia/>}/>
+        <Route path='/America' element={<America/>}/>
       </Routes>
       </BrowserRouter>
    
